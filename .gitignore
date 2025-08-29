@@ -1,0 +1,27 @@
+# Ignore Maven target directory
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore reports and screenshots
+/reports/
+/screenshots/
+/cucumber-reports/
+
+# Ignore generated files
+*.class
